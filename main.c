@@ -120,7 +120,7 @@ int main()
             break;
         case 4:
             printf("Exiting program...\n");
-            exit(0);
+            break;
         default:
             printf("Invalid choice! Try again.\n");
         }
